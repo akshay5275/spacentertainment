@@ -1,0 +1,64 @@
+body{
+    background:url(fe.jpg);
+    background-size: cover;
+   
+    
+
+}
+
+footer{
+   background-color: black;
+}
+
+
+   
+.explore{
+    
+   margin-top: 400;
+   margin-left: 430;
+   border-radius: 5px;
+   background-color: rgb(235, 251, 9);
+   color: black;
+   border-color: rgb(209, 246, 3);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   width: 350px;
+
+
+}
+
+.signup{
+
+   border-radius: 5px;
+   background-color: rgb(235, 251, 9);
+   color: black;
+   border-color: rgb(209, 246, 3);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 30px;
+  width: 100px;
+  margin-top: -400px;
+  margin-left: 280px;
+
+
+}
+
+.insta{
+   border-radius: 70px;
+}
+
+.footer{
+
+   margin-top: 150px;
+   background-color: transparent;
+
+
+   
+}
+#ajay{
+   color: rgb(234, 251, 0);
+}
+
+.footer-container{
+   text-align: left;
+   
+   
+}
